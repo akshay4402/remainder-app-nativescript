@@ -1,0 +1,6 @@
+  .form {
+    margin-left: 30;
+    margin-right: 30;
+    flex-grow: 2;
+    vertical-align: top;
+  }

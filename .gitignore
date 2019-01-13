@@ -1,0 +1,31 @@
+﻿# mac
+.DS_Store
+
+# node
+npm-debug.log
+node_modules
+
+
+#platform
+platforms
+App_Resources
+
+# webpack
+report
+
+# complied
+/app/**/*.css
+/app/**/*.js
+/app/**/*.map
+/hooks
+/lib
+/platforms
+/tmp
+/typings
+
+
+# typescript helpers
+!/app/core/ts-helpers.js
+
+# font icon
+!/app/fonts/*.css
